@@ -3,7 +3,7 @@
 
 <h2>My website designs</h2>  
 <div align="center">  
-  <a href="https://d-laskowski.github.io/portfolio/site3/index.html" target="_blank"><img src="https://i.imgur.com/x9FXHed.png" title="Wyprawy Kajakowe" alt="Wyprawy Kajakowe" height="100" /></a>  
+  <a href="https://d-laskowski.github.io/website_designs/wyprawy_kajakowe/index.html" target="_blank"><img src="https://i.imgur.com/x9FXHed.png" title="Wyprawy Kajakowe" alt="Wyprawy Kajakowe" height="100" /></a>  
   <a href="https://d-laskowski.github.io/portfolio/site2/index.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
   <a href="https://d-laskowski.github.io/portfolio/site1/index.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
